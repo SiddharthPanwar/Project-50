@@ -1,0 +1,14 @@
+ h1{
+    color: #dc143c;  
+  }
+  *{
+    border: double;
+}
+.chameleon{
+ color: darkorange;
+ justify-content: space-evenly;
+}
+.pigeons{
+    color: firebrick;
+    justify-content: flex-start;
+}
